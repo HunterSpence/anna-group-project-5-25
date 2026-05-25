@@ -1,0 +1,20 @@
+{
+  "name": "koriakina-lab17-20-flower-shop",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Лабораторные работы №17-№20 — Анна Корякина — сайт-визитка магазина цветов на React",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.10"
+  }
+}
