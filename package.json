@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Лабораторные работы №17-№20 — Анна Корякина — сайт-визитка магазина цветов на React",
+  "homepage": "https://hunterspence.github.io/anna-group-project-5-25/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
